@@ -141,17 +141,17 @@
 - Summary 189
 
 ## Section Three - Gaining Insight About Your Brand and Quantifying Its Stature 
-#### 13 Digital Transformation and the Evolution of Customer Insights in Brand Building p193
-#### 14 Using Neuroscience to Assess Brands p207
-#### 15 Measuring Brand Relevance and Health p218
-#### 16 Connectin Marketing and Finance via Brand Value p234
+#### 13 Digital Transformation and the Evolution of Customer Insights in Brand Building 193
+#### 14 Using Neuroscience to Assess Brands 207
+#### 15 Measuring Brand Relevance and Health 218
+#### 16 Connectin Marketing and Finance via Brand Value 234
 
 ## Section Four - Lessons from Brand Leaders 
-#### 17 Has Purpose Lost Its Purpose? McDonald's Defines Its Style of Marketing p249
-#### 18 Ulta Beaty Gets a Branding Makeover p256
-#### 19 Transforming a Historic Brand for a Hyper-Connected World: The John Deere Story p263
-#### 20 Rebranding an Organization: The Novant Health Story p271
-#### 21 Repositioning a Country Brand: Changing the Conversation about Mexico p279
-#### 22 Managing Brand Communications in a Digital World p287
-#### 23 Customer Experience: The New Frontier of Branding p294
-#### 24 Brand New: Creating a Brand from Scratch p301
+#### 17 Has Purpose Lost Its Purpose? McDonald's Defines Its Style of Marketing 249
+#### 18 Ulta Beaty Gets a Branding Makeover 256
+#### 19 Transforming a Historic Brand for a Hyper-Connected World: The John Deere Story 263
+#### 20 Rebranding an Organization: The Novant Health Story 271
+#### 21 Repositioning a Country Brand: Changing the Conversation about Mexico 279
+#### 22 Managing Brand Communications in a Digital World 287
+#### 23 Customer Experience: The New Frontier of Branding 294
+#### 24 Brand New: Creating a Brand from Scratch 301
