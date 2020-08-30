@@ -21,48 +21,48 @@
     - Points of Difference and Reasons to Believe 
     - Representing a Point of Difference in Terms of Value 
     - Orchestrating the Frame of Reference and Point of Difference 
-    - Testing Your Brand Positioning Statement p11
-  - Sustaining a Brand Position p11
-    - Modern Instantiation p11
-    - Switching from Attribute to Image Reasons to Believe p12
-    - Laddering p12
-    - Brand Purpose p13
-  - Repositioning a Brand p15
-  - Summary p18 
+    - Testing Your Brand Positioning Statement 11
+  - Sustaining a Brand Position 11
+    - Modern Instantiation 11
+    - Switching from Attribute to Image Reasons to Believe 12
+    - Laddering 12
+    - Brand Purpose 13
+  - Repositioning a Brand 15
+  - Summary 18 
 
 #### 2 Leveraging the Power of Brand Purpose 20
   - The Case for Purpose 
     - The Business Case for Purpose 
     - The Purpose Perfect Storm
-    - The Purpose Path to Growth Model p25
-  - Keys to Making the Model Work p27
-    - Common Understanding of the Case for Purpose p27
-      - What is your motivation for change? p27
+    - The Purpose Path to Growth Model 25
+  - Keys to Making the Model Work 27
+    - Common Understanding of the Case for Purpose 27
+      - What is your motivation for change? 27
     - Shared Leadership and Advocacy 
     - Top-Down and Bottom-Up Engagement 
-    - Integrate. Integrate. Integrate. p29
-    - It's emotional, and That's Okay p29
-  - The Purpose Path to Growth Model in Action p29
-    - Pharmavite: Bringing the Gift of Health to Life p29
-    - Airbnb: Creating a World Where Everyone can "Belong Anywhere" p32
-  - Purpose 2.0: What Needs to be done p34
-  - Summary p35
+    - Integrate. Integrate. Integrate. 29
+    - It's emotional, and That's Okay 29
+  - The Purpose Path to Growth Model in Action 29
+    - Pharmavite: Bringing the Gift of Health to Life 29
+    - Airbnb: Creating a World Where Everyone can "Belong Anywhere" 32
+  - Purpose 2.0: What Needs to be done 34
+  - Summary 35
 
 #### 3 Creating a Powerful Brand Portfolio p37
-  - Brand Portfolio Strategy Definitions p38
-    - Primary Brand p38
-    - Sub-brand p38
-    - Endorser Brand p39
-    - Ingredient and Service Brands p40
-  - The Power of Brand Portfolios p40
-    - Stretching the Brand p41
-    - Expanding the Brand Portfolio p42
-    - The Characteristics of Strong Brand Portfolios p42
-    - Portfolio Problems p43
-  - Making Portfolio Decisions p44
-  - Brand Portfolio Models p45
-    - House of Brands p45
-    - Branded House p46
+  - Brand Portfolio Strategy Definitions 38
+    - Primary Brand 38
+    - Sub-brand 38
+    - Endorser Brand 39
+    - Ingredient and Service Brands 40
+  - The Power of Brand Portfolios 40
+    - Stretching the Brand 41
+    - Expanding the Brand Portfolio 42
+    - The Characteristics of Strong Brand Portfolios 42
+    - Portfolio Problems 43
+  - Making Portfolio Decisions 44
+  - Brand Portfolio Models 45
+    - House of Brands 45
+    - Branded House 46
     
 #### 4 Competitive Brand Strategies: Creating Pioneer, Fast-Follower, and Late-Mover Advantage p53
 #### 5 Leading the Brand: Brand Strategy Orchestration and Implementation p67
@@ -148,10 +148,64 @@
 
 ## Section Four - Lessons from Brand Leaders 
 #### 17 Has Purpose Lost Its Purpose? McDonald's Defines Its Style of Marketing 249
+- The Rise of Purpose 249
+- The Challenges of Brand Purpose 250
+- The Challenge of Balance 251
+- The McDonalds Culture, Product, and Brand 252
+  - Feel-Good Marketing 253
+  - The Happy Meal Sub-brand 253
+  - Little Bubbles of Happy 254
+- Summary 255
+
 #### 18 Ulta Beaty Gets a Branding Makeover 256
+- ULTA Beauty's History 257
+- Building the ULTA Beauty Brand 258
+- A Succesful Makeover 260
+- What We Learned 261
+   - Focus on Fundamentals 261
+   - Make It an 'All Play' 261
+   - Adjust, React, Repeat 261
+- Going Forward 261
+- Summary 262
+
 #### 19 Transforming a Historic Brand for a Hyper-Connected World: The John Deere Story 263
+- The John Deere Story 263
+  - The Changing World of Farming 264
+  - A Plan to Address the Market Opportunity 265
+- Introducing ECAP 266
+- Taking a Marketing-Focused Approach 268
+  - Listening to the Voice of the Customer 268
+  - Developing Tactical Marketing Plans 269
+  - Transforming the Dealer Channel 269
+- Summary: Results and Looking Ahead 270
+
 #### 20 Rebranding an Organization: The Novant Health Story 271
 #### 21 Repositioning a Country Brand: Changing the Conversation about Mexico 279
+- The Challenge 279
+- The Insight: We needed to change the conversation 280
+- The Plan: A Holistic Approach 281
+  - Step 1: Assessing the Opportunity and Aligning Players around a Shared Goal 281
+  - Step 2: Building a Strategic Plan Based on Diversification 281
+  - Step 3: Increase Both Public and Private Investment in Tourism 282
+  - Step 4: Rebranding Mexico 283
+- The Results: Closing the Gap Between Perception and Reality 284
+- Summary: Five Lessons Learned 284
+  - Lesson 1: Control Your Narrative 284
+  - Lesson 2: Embrace Brand Management Principles 284
+  - Lesson 3: Diversification is Crucial 285
+  - Lesson 4: Personal Voices (Testimonials) are Powerful 285
+  - Lesson 5: Be Prepared 
+ 
 #### 22 Managing Brand Communications in a Digital World 287
+- Recommendation 1: Choose Fewer Digital Media Partners and Develop Digital Media Partners with Them 288
+- Recommendation 2: Creative Content Must Work in a Mobile Environment 289
+- Recommendation 3: Tie Your Metrics for Success to the Medium and to your Business Goals 290
+  - Link Media Outcomes to Busienss Outcomes 291
+  - Traditional and Digital Media Impressions Need to be Evaluated Differently 291
+  - Digital Offers Methods for Making Stronger Inferences about the Link between Ad Exposure and Sales 292
+- Summary 292
+
 #### 23 Customer Experience: The New Frontier of Branding 294
+- 
+
 #### 24 Brand New: Creating a Brand from Scratch 301
